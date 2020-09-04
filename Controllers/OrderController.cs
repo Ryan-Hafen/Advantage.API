@@ -71,7 +71,7 @@ namespace Advantage.API.Controllers
             return Ok(groupedResult);
         }
 
-        [HttpGet("ByCustomer/{}", Name = "GetOrder")]
+        [HttpGet("GetOrder/{id}", Name = "GetOrder")]
         public IActionResult ByOrder(int id)
         {
             var order = _ctx.Orders.Include(o => o.Customer)
