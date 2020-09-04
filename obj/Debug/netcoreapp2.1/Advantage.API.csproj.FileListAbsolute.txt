@@ -1,0 +1,15 @@
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\bin\Debug\netcoreapp2.1\Advantage.API.deps.json
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\bin\Debug\netcoreapp2.1\Advantage.API.runtimeconfig.json
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\bin\Debug\netcoreapp2.1\Advantage.API.runtimeconfig.dev.json
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\bin\Debug\netcoreapp2.1\Advantage.API.dll
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\bin\Debug\netcoreapp2.1\Advantage.API.pdb
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.csprojAssemblyReference.cache
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.csproj.CoreCompileInputs.cache
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.RazorAssemblyInfo.cache
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.RazorAssemblyInfo.cs
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.AssemblyInfoInputs.cache
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.AssemblyInfo.cs
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.RazorTargetAssemblyInfo.cache
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.dll
+C:\Users\rhafen\Source\repos\__Personal\Advantage.API\obj\Debug\netcoreapp2.1\Advantage.API.pdb
