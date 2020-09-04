@@ -19,11 +19,12 @@ namespace Advantage.API
             var prefix = GetRandom(bizPrefix);
             var suffix = GetRandom(bizSuffix);
 
-            return prefix + suffix;
+            return prefix + " " + suffix;
         }
 
         internal static string MakeEmail(string name)
         {
+            name = name.Replace(" ", "_");
             return $"contact@{name.ToLower()}_{DateTime.Now:fff}.com";
         }
 
